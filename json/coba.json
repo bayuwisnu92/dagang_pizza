@@ -1,0 +1,33 @@
+[
+    {
+        "nama" : "bayu",
+        "umur" : 30,
+        "nip" : "8980982392",
+        "lulus" : "true",
+        "hobi" : [
+            "coding",
+            "catur"
+        ],
+        "pembimbing" :  {
+            "pembimbing1" : "sasuke",
+            "pembimbing2" : "jiraya"
+        },
+        "tobi": "penjahat"
+    },
+    {
+        "nama" : "tobi",
+        "umur" : 30,
+        "nip" : "8980982392",
+        "lulus" : "true",
+        "hobi" : [
+            "coding",
+            "catur"
+        ],
+        "pembimbing" :  {
+            "pembimbing1" : "sasuke",
+            "pembimbing2" : "jiraya"
+        },
+        "tobi": "penjahat"
+    }
+    
+]
